@@ -1,5 +1,13 @@
 package algorithm.sort.bubblesort;
 
+
+/**
+ * 
+ * Bubble Sort
+ * 
+ * @author Lance
+ *	
+ */
 public class BubbleSortTest {
 
 	public static void main(String[] args) {

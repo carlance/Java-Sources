@@ -23,8 +23,7 @@ public class QuickSortTest {
 		sorter.partition(testArray1);		
 		sorter.printResult(testArray1);
 		
-		//Added note
-		sorter.printResult(testArray1);
+		
 		
 	}
 }
